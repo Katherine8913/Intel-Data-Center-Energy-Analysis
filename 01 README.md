@@ -25,11 +25,11 @@ Calculated fields, parameters, filters, dual-axis charts, line charts, bar chart
 
 ## Dashboard Preview
 
-![Intel Data Center Dashboard](02%Intel%20Dashboard.png)
+![Intel Data Center Dashboard](./02%20Intel%20Dashboard.png)
 
 ## Additional Visualization
 
-![Intel Power Source TreeMap](01%Intel%20Power%20TreeMap.png)
+![Intel Power Source TreeMap](./03%20Intel%20Power%20TreeMap.png)
 
 ## Note
 This project was completed as part of the Global Career Accelerator Data Visualization program in collaboration with Intel. All analysis is for educational and portfolio purposes.
