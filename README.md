@@ -24,12 +24,12 @@ Which U.S. region offers the strongest combination of energy surplus, renewable-
 Calculated fields, parameters, filters, dual-axis charts, line charts, bar charts, treemaps, dashboard design, data storytelling, and business recommendations.
 
 ## Dashboard Preview
-![Dashboard screenshot](images/dashboard-overview.png)
 
-## Project Files
+![Intel Data Center Dashboard](Intel%20Dashboard.png)
 
-- [Download the Tableau Workbook](Intel_Data_Center_Energy_Analysis.twbx)
-- [View the Dashboard PDF](Intel_Data_Center_Energy_Analysis.pdf)
+## Additional Visualization
+
+![Intel Power Source TreeMap](Intel%20Power%20TreeMap.png)
 
 ## Note
 This project was completed as part of the Global Career Accelerator Data Visualization program in collaboration with Intel. All analysis is for educational and portfolio purposes.
